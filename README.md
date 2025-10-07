@@ -2,9 +2,9 @@
 
 ## Preview
 
-![Sunburst](sunburst.png)
+![Sunburst](Sunburst.png)
 
---
+[Observable link](https://observablehq.com/d/160e3f09561cd8b2) 
 
 ## Overview
 
@@ -14,24 +14,17 @@ For leagues not in season at the time of publishing, the most recent full season
 
 This visualization covers most sporting events viewed in the U.S, with the most notable exclusion being the Jake Paul vs. Mike Tyson boxing match on November 14th, 2024. The fight was aired on Netflix and garnered 60M views globally. I chose not to include it as it was not sanctioned by the WBA, WBC, IBF or WBO. Additional exclusions include the WNBA, LIV Golf and NCAA Men's Wrestling.
 
---
-
 ## Data
 Dataset (`US_Sports_Viewership_2024-2025_Combined_09.28.2025`) consolidates televised sports events into a single baseline covering weekly viewership numbers.  
 - Columns: `league,	viz_week_index, week_start_date_utc,	week_end_date_utc	game,	network,	avg_viewers_millions,	source_url`
 - Values are in millions of viewers 
 
---
-
 ## Visualization
 The visualization is housed in [Observable](https://observablehq.com/d/160e3f09561cd8b2) using **D3.js**.  
-
---
 
 ## License
 MIT License — free to reuse with attribution.  
 
---
 
 ## Credits
 - Visualization built with **D3.js** in Observable
