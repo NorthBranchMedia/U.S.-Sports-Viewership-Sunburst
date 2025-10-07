@@ -4,7 +4,7 @@
 
 ![Sunburst](Sunburst.png)
 
-[Observable link](https://observablehq.com/d/160e3f09561cd8b2) 
+[Observable link](https://observablehq.com/d/160e3f09561cd8b2) (scroll down)
 
 ## Overview
 
